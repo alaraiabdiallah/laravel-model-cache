@@ -1,6 +1,6 @@
 <?php
 
-namespace ModelCache;
+namespace ModelCache\Traits;
 
 use Cache;
 use Illuminate\Http\Request;

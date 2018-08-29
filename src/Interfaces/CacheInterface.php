@@ -1,8 +1,8 @@
 <?php
 
-namespace ModelCache;
+namespace ModelCache\Interfaces;
 
-interface Contract
+interface CacheInterface
 {
     public function scopeCacheQuery($query);
     public function scopeCached($query);
