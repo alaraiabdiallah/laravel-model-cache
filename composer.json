@@ -1,0 +1,19 @@
+{
+    "name": "alaraiabdiallah/laravel-model-cache",
+    "description": "Laravel model cache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ala Rai",
+            "email": "alaraiabdillah@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ModelCache\\": "src/"
+        }
+    }
+}
